@@ -1,0 +1,11 @@
+{
+  "name": "sysuniversofthings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-module-db": "node ./Suot-db/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
